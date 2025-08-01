@@ -3,7 +3,7 @@
 This repository showcases my **Northwind Data Analytics Project**, where I used **SQL, Excel, and Power BI** to uncover insights from the classic Northwind retail dataset.
 
 ## 🎥 Video Walkthrough
-[![Watch the video](https://img.youtube.com/vi/KJg2lTxGgNs/0.jpg)](https://youtu.be/KJg2lTxGgNs)
+[![Watch the video](Thumbnail.png)](https://youtu.be/KJg2lTxGgNs)
 
 Click the thumbnail above to watch the **unlisted video walkthrough** on YouTube.
 
