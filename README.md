@@ -5,7 +5,7 @@ This repository showcases my **Northwind Data Analytics Project**, where I used 
 ## 🎥 Video Walkthrough
 [![Watch the video](Thumbnail.png)](https://youtu.be/KJg2lTxGgNs)
 
-#Click the thumbnail above to watch the **unlisted video walkthrough** on YouTube.
+# Click the thumbnail above to watch the **unlisted video walkthrough** on YouTube.
 
 ## 📊 Project Highlights
 
